@@ -1,10 +1,10 @@
 # RandomStringChecker
 RandomStringChecker, which is designed to evaluate whether a given string is random based on specific criteria.
 
-Author: Roberto Aleman
-Web: ventics.com
-License: MIT
-Created: March 16, 2025
+Author: <b>Roberto Aleman</b><br/>
+Web: <b>ventics.com</b><br/>
+License: <b>MIT</b><br/>
+Created: <b>March 16, 2025</b><br/>
 
 <span class="">The provided PHP code defines a class called <code translate="no">RandomStringChecker</code>, which is designed to evaluate whether a given string is random based on specific criteria. Here’s a breakdown of what the code does:</span>
 <ol class="">
