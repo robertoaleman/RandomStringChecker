@@ -1,5 +1,5 @@
 # RandomStringChecker
-RandomStringChecker, which is designed to evaluate whether a given string is random based on specific criteria.
+RandomStringChecker, Designed to evaluate whether a given string is random according to specific criteria.
 
 Author: <b>Roberto Aleman</b><br/>
 Web: <b><a href="https://ventics.com">ventics.com</a></b><br/>
