@@ -2,7 +2,7 @@
 RandomStringChecker, which is designed to evaluate whether a given string is random based on specific criteria.
 
 Author: <b>Roberto Aleman</b><br/>
-Web: <b>ventics.com</b><br/>
+Web: <b><a href="https://ventics.com">ventics.com</a></b><br/>
 License: <b>MIT</b><br/>
 Created: <b>March 16, 2025</b><br/>
 
