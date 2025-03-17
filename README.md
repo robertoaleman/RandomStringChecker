@@ -22,6 +22,6 @@ Created: March 16, 2025
 </ol>
 <span class="">Overall, this code provides a structured way to assess the randomness of strings, making it useful for applications where random string generation is important, such as password creation or token generation.</span>
 
-Do you like the code?
-Need more? Write to me and I can customize it for your project.
+<p>Do you like the code?</p>
+<p><b>Need more? Write to me and I can customize it for your project.</b></p>
 
