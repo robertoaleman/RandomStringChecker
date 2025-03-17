@@ -21,7 +21,7 @@ Created: <b>March 16, 2025</b><br/>
  	<li class=""><span class=""><strong>Example Usage</strong>: The code includes examples of how to create instances of the <code translate="no">RandomStringChecker</code> class and check various strings. It demonstrates different scenarios, including strings that are not random due to length, repetitive patterns, or sequences.</span></li>
 </ol>
 <span class="">Overall, this code provides a structured way to assess the randomness of strings, making it useful for applications where random string generation is important, such as password creation or token generation.</span>
-
-<p>Do you like the code?</p>
+<br/>
+<h3>Do you like the code?</h3>
 <p><b>Need more? Write to me and I can customize it for your project.</b></p>
 
